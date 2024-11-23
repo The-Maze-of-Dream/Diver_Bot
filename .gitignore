@@ -60,3 +60,7 @@ rider.log
 .idea/**/misc.xml
 .idea/**/vcs.xml
 .idea/**/shelf/
+
+# appsettings.json (if you want to exclude sensitive configuration files)
+appsettings.json
+appsettings.*.json
